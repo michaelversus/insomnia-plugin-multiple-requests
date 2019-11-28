@@ -1,0 +1,12 @@
+{
+  "name": "insomnia-plugin-multiple-requests",
+  "version": "1.0.0",
+  "description": "test all calls is a folder",
+  "license": "MIT",
+  "main": "./src/plugin.js",
+  "author": "Michalis Karagiorgos",
+  "insomnia": {
+    "name": "testdxl",
+    "description": "test all calls is a folder"
+  }
+}
