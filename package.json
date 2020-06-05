@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-multiple-requests",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test all calls inside a folder",
   "license": "MIT",
   "main": "./src/plugin.js",
